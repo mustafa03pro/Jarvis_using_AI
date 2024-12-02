@@ -1,1 +1,3 @@
 # Jarvis_using_AI
+This project presents a custom-built AI assistant named "Jarvis," developed using OpenAI's API. Leveraging advanced natural language processing capabilities, Jarvis is designed to perform a variety of tasks, including answering questions, providing recommendations, and assisting with task automation. The system integrates OpenAI's API with user-friendly interfaces and supporting frameworks to ensure seamless interaction. Its architecture emphasizes flexibility, enabling it to adapt to diverse domains and user needs. By combining conversational AI with custom integrations, Jarvis enhances productivity and demonstrates the potential of OpenAI's API for personalized, intelligent assistants.
+
